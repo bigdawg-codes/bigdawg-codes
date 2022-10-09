@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>Browse Top News</title>
+    <meta name="apple-itunes-app" content="app-id=915249334, app-argument=shortcuts://shortcuts/ea8db23b554642939059b52e4984ccf6">
+    <meta property="og:title" content="Browse Top News">
+    <meta property="og:description" content="Browse today&amp;amp;#x27;s top news stories from the RSS feeds of Techmeme, The New York Times, CNN, BBC, or NPR, then open the selected articles in Safari.">
+    <meta property="al:ios:url" content="shortcuts://shortcuts/ea8db23b554642939059b52e4984ccf6"/>
+    <meta property="al:ios:app_store_id" content="915249334"/>
+    <meta property="al:ios:app_name" content="Shortcuts"/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Browse Top News">
+    <meta name="twitter:description" content="Browse today&amp;amp;#x27;s top news stories from the RSS feeds of Techmeme, The New York Times, CNN, BBC, or NPR, then open the selected articles in Safari.">
+
+    <meta property="og:image" content="/shortcuts/api/icons/ea8db23b554642939059b52e4984ccf6">
+    <meta name="twitter:image" content="/shortcuts/api/icons/ea8db23b554642939059b52e4984ccf6">
+
+</head>
+<body>
+</body>
+</html>

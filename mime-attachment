@@ -1,0 +1,10 @@
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; bigdawg2012llc@icloud.com
+Arrival-Date: Sat, 24 Sep 2022 14:21:48 -0700 (PDT)
+X-Original-Message-ID: <71F066B9-3943-4324-AD3A-10A874096E0F@icloud.com>
+
+Final-Recipient: rfc822; opensource-conduct@yahooinc.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp; The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596
+Last-Attempt-Date: Sat, 24 Sep 2022 14:21:48 -0700 (PDT)
